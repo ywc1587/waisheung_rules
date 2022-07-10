@@ -8,8 +8,6 @@ DOMAIN-SUFFIX,f2pool.com
 # Hiveos
 DOMAIN-SUFFIX,hiveos.farm
 
-# dukou
-DOMAIN-SUFFIX,dukou.dev
 
 # Port
 DST-PORT,12020

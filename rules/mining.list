@@ -12,3 +12,4 @@ DOMAIN-SUFFIX,hiveos.farm
 DOMAIN-SUFFIX,dukou.dev
 
 # Port
+DST-PORT,12020

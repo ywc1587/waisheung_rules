@@ -13,6 +13,3 @@ DOMAIN-SUFFIX,herominers.com
 DST-PORT,12020
 DST-PORT,10250
 DST-PORT,1180
-
-# Hiveos
-DOMAIN-SUFFIX,hiveos.farm

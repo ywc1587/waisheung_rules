@@ -8,7 +8,6 @@ DOMAIN,appstoreconnect.apple.com,DIRECT
 DOMAIN,iosapps-ssl.itunes.apple.com,DIRECT
 DOMAIN,itcmobile.itunes.apple.com,DIRECT
 DOMAIN,hls-svod.itunes.apple.com,DIRECT
-PROCESS-NAME,Music,DIRECT
 DOMAIN-SUFFIX,music.apple.com,DIRECT
 DOMAIN,aod.itunes.apple.com,DIRECT
 DOMAIN,audio.itunes.apple.com,DIRECT
@@ -23,7 +22,6 @@ DOMAIN-SUFFIX,icloud-content.com,DIRECT
 DOMAIN,www-cdn.icloud.com.akadns.net,DIRECT
 DOMAIN-SUFFIX,mail.icloud.com.cn,DIRECT
 DOMAIN-SUFFIX,mail.me.com,DIRECT
-PROCESS-NAME,TV,DIRECT
 DOMAIN-SUFFIX,tv.apple.com,DIRECT
 DOMAIN,hls.itunes.apple.com,DIRECT
 DOMAIN,hls-amt.itunes.apple.com,DIRECT

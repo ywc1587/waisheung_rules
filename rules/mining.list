@@ -16,6 +16,7 @@ DOMAIN-KEYWORD,hashrate
 DOMAIN-KEYWORD,herominers
 DOMAIN-KEYWORD,woolypooly
 DOMAIN-KEYWORD,kryptex
+DOMAIN-SUFFIX,nicehash.com
 
 # Port
 DST-PORT,12020

@@ -23,3 +23,6 @@ DOMAIN-SUFFIX,onekey.zendesk.com
 
 # threads
 DOMAIN-SUFFIX,threads.net
+
+# tradingview
+DOMAIN-SUFFIX,tradingview.com
